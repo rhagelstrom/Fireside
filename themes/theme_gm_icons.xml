@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+	<!-- Add more custom GM icons here. The name must start with "GMIcon_" -->
+
+	<icon name="GMIcon_custom1" file="themes/icons/gm_portraits/dungeonmaster.png" />
+</root>

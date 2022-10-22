@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.0" release="3.0">
+	<properties>
+		<name>Feature: Fireside</name>
+		<version>1.0</version>
+		<author>Ryan Hagelstrom</author>
+		<description>Custom changes to Chat Aesthetics Configurator</description>
+		<loadorder>1602</loadorder>
+	</properties>
+	<announcement text="Fireside v1.0\rby Ryan Hagelstrom 2022" icon="fireside_brand" font="emotefont"/>
+
+	<base>
+		<!-- ******************************************************************** -->
+		<!-- **                  LOAD THE BRAND ICON                           ** -->
+		<!-- ******************************************************************** -->
+
+		<icon name="fireside_brand" file="brand/fireside.png" />
+
+		<!-- ******************************************************************** -->
+		<!-- **                   LOAD THE SCRIPTS                             ** -->
+		<!-- ******************************************************************** -->
+
+		<script name="Fireside" file="scripts/fireside.lua" />
+
+		<!-- ******************************************************************** -->
+		<!-- **                  LOAD THE CUSTOM GM ICONS                      ** -->
+		<!-- ******************************************************************** -->
+
+		<includefile source="themes/theme_gm_icons.xml"/>
+
+		<!-- ******************************************************************** -->
+		<!-- **                  LOAD THE CUSTOM ICON THEMES                   ** -->
+		<!-- ******************************************************************** -->
+
+		<includefile source="themes/theme_icons_custom1.xml"/>
+
+		<!-- ******************************************************************** -->
+		<!-- **                 LOAD THE CUSTOM FONTS THEMES                   ** -->
+		<!-- ******************************************************************** -->
+
+		<includefile source="themes/theme_fonts_custom1.xml"/>
+
+	</base>
+</root>

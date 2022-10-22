@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+	<!-- ROLLS -->
+	<icon name="roll_attack_custom1" file="themes/icons/custom1/roll_attack.png" />
+	<icon name="roll_attack_hit_custom1" file="themes/icons/custom1/roll_attack_hit.png" />
+	<icon name="roll_attack_miss_custom1" file="themes/icons/custom1/roll_attack_miss.png" />
+	<icon name="roll_attack_crit_custom1" file="themes/icons/custom1/roll_attack_crit.png" />
+	<icon name="roll_attack_fumble_custom1" file="themes/icons/custom1/roll_attack_fumble.png" />
+	<icon name="roll_cast_custom1" file="themes/icons/custom1/roll_cast.png" />
+	<icon name="roll_damage_custom1" file="themes/icons/custom1/roll_damage.png" />
+	<icon name="roll_heal_custom1" file="themes/icons/custom1/roll_heal.png" />
+	<icon name="roll_effect_custom1" file="themes/icons/custom1/roll_effect.png" />
+	<icon name="roll_effect_expired_custom1" file="themes/icons/custom1/effect_expired.png" />
+
+	<!-- SPELLS -->
+
+	<icon name="spell_cast_custom1" file="themes/icons/custom1/spell_cast.png" />
+	<icon name="spell_damage_custom1" file="themes/icons/custom1/spell_damage.png" />
+	<icon name="spell_heal_custom1" file="themes/icons/custom1/spell_heal.png" />
+	<icon name="spell_effect_custom1" file="themes/icons/custom1/spell_effect.png" />
+
+	<!-- Other -->
+	<icon name="charlist_inspiration_custom1" file="themes/icons/custom1/charlist_inspiration.png" />
+
+</root>
