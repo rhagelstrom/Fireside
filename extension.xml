@@ -2,12 +2,12 @@
 <root version="3.0" release="3.0">
 	<properties>
 		<name>Feature: Fireside</name>
-		<version>1.0</version>
+		<version>1.1</version>
 		<author>Ryan Hagelstrom</author>
 		<description>Custom changes to Chat Aesthetics Configurator</description>
 		<loadorder>1602</loadorder>
 	</properties>
-	<announcement text="Fireside v1.0\rby Ryan Hagelstrom 2022" icon="fireside_brand" font="emotefont"/>
+	<announcement text="Fireside v1.1\rby Ryan Hagelstrom 2022" icon="fireside_brand" font="emotefont"/>
 
 	<base>
 		<!-- ******************************************************************** -->
@@ -39,6 +39,12 @@
 		<!-- ******************************************************************** -->
 
 		<includefile source="themes/theme_fonts_custom1.xml"/>
+
+		<!-- ******************************************************************** -->
+		<!-- **                  LOAD THE CUSTOM AURA ICONS                    ** -->
+		<!-- ******************************************************************** -->
+
+		<includefile source="themes/theme_aura_icons.xml"/>
 
 	</base>
 </root>
